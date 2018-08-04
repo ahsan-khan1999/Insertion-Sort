@@ -1,0 +1,11 @@
+			Incertion Sorting!!
+1)create an array
+2)Put some Random values in it
+3)make a loop to go through this this wheather array is sorted or not;
+4)if array is not sorted swap the indexs of number > than ,and the number after this is
+less than.
+
+	c;
+	a=c;
+	a=b;
+	b=a;
